@@ -1,0 +1,41 @@
+{
+  "format": "openpilot-CarState-json-shadow-v1",
+  "serialization": "JSONL only; Cap'n Proto runtime unavailable in this workspace",
+  "opendbcCommit": "178c81ab5c052ac92a849f6400703d082d268c02",
+  "contractUrl": "https://github.com/commaai/opendbc/blob/178c81ab5c052ac92a849f6400703d082d268c02/opendbc/car/car.capnp#L155-L299",
+  "sourceCsv": "G:\\Codex\\ota_extract_2026-10-28\\products_v2_2026-11-05\\59c08f67.signals.csv",
+  "outputJsonl": "G:\\Codex\\ota_extract_2026-10-28\\products_v2_2026-11-05\\59c08f67.carstate.jsonl",
+  "maxAgeMs": 300,
+  "rows": 108,
+  "canValidRows": 107,
+  "canTimeoutRows": 1,
+  "accEnabledRows": 0,
+  "latActiveRows": 0,
+  "mode3WithoutAccRows": 0,
+  "latWithoutAccRows": 0,
+  "enabledWithoutAvailableRows": 0,
+  "validAndTimeoutRows": 0,
+  "leftBlinkerRows": 0,
+  "rightBlinkerRows": 0,
+  "hazardRows": 0,
+  "maxVEgoMps": 11.124305555555555,
+  "minVEgoMps": 0,
+  "reverseMotionRows": 0,
+  "maxAbsAEgoMps2": 0.6180555555555679,
+  "maxAbsAEgoRobustMps2": 0.30833333333333,
+  "gearRows": {
+    "drive": 108
+  },
+  "wheelDirectionRows": {
+    "///": 1,
+    "1/1/1/1": 107
+  },
+  "unresolved": [
+    "real Cap'n Proto serialization/import into openpilot runtime",
+    "ACC available and cruise set speed",
+    "driver steeringPressed threshold",
+    "EPS fault-bit mapping",
+    "canErrorCounter is an offline placeholder 0, not an observed zero-error result"
+  ],
+  "hardInvariantViolations": 0
+}

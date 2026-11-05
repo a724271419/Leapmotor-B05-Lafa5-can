@@ -1,0 +1,193 @@
+{
+ "generatedAt": "2026-11-04",
+ "files": 31,
+ "totalBytes": 1231490849,
+ "captures": [
+  {
+   "file": "低速行驶.ndjson",
+   "dir": "can抓包",
+   "bytes": 39342677,
+   "sha256": "ca23e81a9becf754e65f28559e318cd6ba9cf84043916b1fa2304c5355839cdc"
+  },
+  {
+   "file": "先下单拨.再下双拨.ndjson",
+   "dir": "can抓包",
+   "bytes": 40628258,
+   "sha256": "740f6650249916bd3257bcc4a306e3f94ebb2fbeb3287065d0576c9d4d3503da"
+  },
+  {
+   "file": "去.ndjson",
+   "dir": "can抓包",
+   "bytes": 38481748,
+   "sha256": "8ed28d44cdc0cbaf02a146433d36438ba5c118c9129be997c273d0a785238c75"
+  },
+  {
+   "file": "回.ndjson",
+   "dir": "can抓包",
+   "bytes": 38447131,
+   "sha256": "c5fe58737d20003fb164236fa2635e22ec55854f196d0257ff58cf9c513bf6b8"
+  },
+  {
+   "file": "左转向10秒右转向10秒双闪10秒.ndjson",
+   "dir": "can抓包",
+   "bytes": 32020727,
+   "sha256": "745f59277ecf94c77f395f0394110270500538138e4a8adb2f5d93433a35a709"
+  },
+  {
+   "file": "运动跨0.ndjson",
+   "dir": "can抓包",
+   "bytes": 18701384,
+   "sha256": "feb9d7655d06570f4a600ce8d7e75084f83a8f80d8e9d806a3c5e5a311d324e3"
+  },
+  {
+   "file": "shuangbo2.ndjson",
+   "dir": "2",
+   "bytes": 14732853,
+   "sha256": "f3539bb31a2fd8d83837bfd2e47c3eaaceb71d86ff1587b51365617f0518db4d"
+  },
+  {
+   "file": "单拨.ndjson",
+   "dir": "2",
+   "bytes": 20514426,
+   "sha256": "1aaed20221d15541c0b9263ff2aaf4e4502723044fd2111b2bdd2e2b73c7c555"
+  },
+  {
+   "file": "单拨2.ndjson",
+   "dir": "2",
+   "bytes": 24201137,
+   "sha256": "3ad2c946f2a2257707e83559daed1b94f9f79b8df1f6014515dab5824e71ddd8"
+  },
+  {
+   "file": "双拨.ndjson",
+   "dir": "2",
+   "bytes": 21056572,
+   "sha256": "b1fce53eaf8624e132f8df798e75118439586c804dae698410650de2cc78f1ce"
+  },
+  {
+   "file": "双拨3.ndjson",
+   "dir": "2",
+   "bytes": 22005503,
+   "sha256": "553a189579566df07f70d30469560a1470d883dcdb0cefef10e6820ba90877de"
+  },
+  {
+   "file": "急刹1.ndjson",
+   "dir": "2",
+   "bytes": 7547725,
+   "sha256": "473087af4375f53cda75bed61e0fdc9f067c240332c0284d1d8fedead62b5582"
+  },
+  {
+   "file": "急刹2.ndjson",
+   "dir": "2",
+   "bytes": 6413120,
+   "sha256": "8c82d232903bb58826389f81c8ef8ff3888a8668553fd679f5936bd026fd1e7e"
+  },
+  {
+   "file": "接管1.ndjson",
+   "dir": "2",
+   "bytes": 18792420,
+   "sha256": "6e97dcb2612520f2759dc5494dde13ab63fa78396ce4af90feee4f9d7d78eaa2"
+  },
+  {
+   "file": "接管2.ndjson",
+   "dir": "2",
+   "bytes": 20639604,
+   "sha256": "26ee2915719002ccb3cf8c5faad7f45dc28c8b9213bf637b5741e9fba3106873"
+  },
+  {
+   "file": "设定速度1.ndjson",
+   "dir": "2",
+   "bytes": 24951491,
+   "sha256": "d51c100685da88d239f5b62316864af08c4067b76f573a4331f9ae0b3578556d"
+  },
+  {
+   "file": "设定速度2.ndjson",
+   "dir": "2",
+   "bytes": 19116610,
+   "sha256": "a3d6b9948927d0e2710d60ab5f0a179afb7293770a35926f9ae505994f5e80fc"
+  },
+  {
+   "file": "03d93adb.ndjson",
+   "dir": "fullcap",
+   "bytes": 12353471,
+   "sha256": "8dd1de97f672d9abc739689546df75e32b87f05e6bb54e748228329005223d5c"
+  },
+  {
+   "file": "1804f14c.ndjson",
+   "dir": "fullcap",
+   "bytes": 37919580,
+   "sha256": "2efd690e5823f3b020c6cff6dd101829fe20ce73f5e3070dc73aebac12a8a210"
+  },
+  {
+   "file": "287ce0ae.ndjson",
+   "dir": "fullcap",
+   "bytes": 79583028,
+   "sha256": "b35224993a0397bc302eb21f9d4151e3c28e2bdc9e37392c7ef9d9b47a1510bf"
+  },
+  {
+   "file": "59c08f67.ndjson",
+   "dir": "fullcap",
+   "bytes": 1087712,
+   "sha256": "ad889f50956eab35de9ba9a48a11dc85d1fcff285055c2444a778c16500aa60c"
+  },
+  {
+   "file": "68639d65.ndjson",
+   "dir": "fullcap",
+   "bytes": 41334422,
+   "sha256": "37b50c40aa68ff2ad7ad251bea3bc2ab73573b13cca6aac3a725abdd20ec18f3"
+  },
+  {
+   "file": "69229f22.ndjson",
+   "dir": "fullcap",
+   "bytes": 118330543,
+   "sha256": "d69a6c56f00a97791d8a507c7dbc2e0916818eb4af627a910d012b8df2bf5304"
+  },
+  {
+   "file": "7c5c1486.ndjson",
+   "dir": "fullcap",
+   "bytes": 15055941,
+   "sha256": "d6aa6189058038a1072635f2ab76673276d9d8ec452fdabdca95ee711853e312"
+  },
+  {
+   "file": "7ea97aae.ndjson",
+   "dir": "fullcap",
+   "bytes": 108957415,
+   "sha256": "d667e1d586f184d7a96e8fed7508f7a4809bd8449bded9a9ec3ae0bfce8a6d43"
+  },
+  {
+   "file": "878e8239.ndjson",
+   "dir": "fullcap",
+   "bytes": 193940861,
+   "sha256": "3b7a47051090e225ccc90ee7cfd6160076400284d7571965fd4888d1db3433cf"
+  },
+  {
+   "file": "989b26f1.ndjson",
+   "dir": "fullcap",
+   "bytes": 31210790,
+   "sha256": "5a6b92b4bf25bed18e7a78ec536c79b2878e79361bd75b2c38c6e2f16e4abcf2"
+  },
+  {
+   "file": "b1ed8d5c.ndjson",
+   "dir": "fullcap",
+   "bytes": 36519438,
+   "sha256": "7df8adbd5c7807e94564bf8ee4faa87737983f62ea3b84b62b57067e41904337"
+  },
+  {
+   "file": "be9b567b.ndjson",
+   "dir": "fullcap",
+   "bytes": 44084718,
+   "sha256": "51aa38f4e1909a663b5b9a325e5a22e859f39bcdb90ef18c943357b0202cf99b"
+  },
+  {
+   "file": "c3286193.ndjson",
+   "dir": "fullcap",
+   "bytes": 83101928,
+   "sha256": "5a01d5b61f86fb7edc2153328c704c9ce3acb0dba66fec61e667b53ddcf68a74"
+  },
+  {
+   "file": "fb7f753b.ndjson",
+   "dir": "fullcap",
+   "bytes": 20417616,
+   "sha256": "ae7de4e3de3c301f915e564770109f35b98967adb3bd8c85e50e251b1c7fc9ca"
+  }
+ ]
+}

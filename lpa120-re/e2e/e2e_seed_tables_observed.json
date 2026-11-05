@@ -1,0 +1,217 @@
+{
+ "algorithm": "CRC-8/H2F(poly=0x2F,init=0xFF,xorout=0xFF) over data[1..len-1] || seed[counter]; counter = data[1]&0x0F",
+ "source": "observed: auto-inferred from 31 captures (e2e_check.js); binary: lpAdasInput/lpIcuGw/lpCanEngine",
+ "crossCheck": {
+  "matchBinary": 17,
+  "differ": 0,
+  "notInBinary": [
+   "0x084",
+   "0x0B1",
+   "0x0CB",
+   "0x0CD",
+   "0x143",
+   "0x183",
+   "0x186",
+   "0x18C",
+   "0x233",
+   "0x241",
+   "0x243",
+   "0x3B0",
+   "0x648",
+   "0x656",
+   "0x65A",
+   "0x6A0",
+   "0x6A1",
+   "0x6F3",
+   "0x6F4",
+   "0x6F6"
+  ]
+ },
+ "tables": {
+  "0x083": {
+   "frames": 100734,
+   "hit": 100734,
+   "seeds": "cd 81 0a c1 99 7f 8d 05 3b a2 43 d2 b6 72 2a d9"
+  },
+  "0x084": {
+   "frames": 63231,
+   "hit": 63231,
+   "seeds": "5a 77 5f ea 3f cd f9 2e 34 f1 2c 81 60 37 c6 5b"
+  },
+  "0x0B1": {
+   "frames": 199590,
+   "hit": 199590,
+   "seeds": "49 56 0e 67 81 1e 76 9f bf c1 e5 6c 96 83 7f c2"
+  },
+  "0x0B6": {
+   "frames": 180360,
+   "hit": 180360,
+   "seeds": "71 0d 0b c2 08 c6 63 4b 3f 2b 06 10 f0 d2 87 0d"
+  },
+  "0x0B7": {
+   "frames": 96525,
+   "hit": 96525,
+   "seeds": "eb 4e ae ce 79 7c 52 03 6a 84 c2 3a 0a 64 2f 17"
+  },
+  "0x0CB": {
+   "frames": 200000,
+   "hit": 200000,
+   "seeds": "44 73 30 2e a7 ae 40 96 33 58 84 36 f1 43 bf 0a"
+  },
+  "0x0CD": {
+   "frames": 108842,
+   "hit": 108842,
+   "seeds": "93 33 70 1a 9a b5 ea 04 7e d4 b6 9d 8a 2e 18 41"
+  },
+  "0x0FA": {
+   "frames": 102582,
+   "hit": 102582,
+   "seeds": "96 97 8b 02 69 bb 54 e6 4e 46 8d 7b ea 87 e9 b3"
+  },
+  "0x0FD": {
+   "frames": 200000,
+   "hit": 200000,
+   "seeds": "53 58 37 da 94 57 79 27 8d dd d0 39 16 84 07 af"
+  },
+  "0x142": {
+   "frames": 44445,
+   "hit": 44445,
+   "seeds": "0e 1e bf 6c 7f fa c0 14 8a d2 52 3c 8b a6 92 ad"
+  },
+  "0x143": {
+   "frames": 53108,
+   "hit": 53108,
+   "seeds": "01 d0 d3 e2 7a e0 d9 3e 75 29 8a 85 cf 90 83 62"
+  },
+  "0x182": {
+   "frames": 15735,
+   "hit": 15735,
+   "seeds": "e8 40 60 de c2 ac e3 a4 3d 88 d1 ee 51 16 ad 49"
+  },
+  "0x183": {
+   "frames": 91146,
+   "hit": 91146,
+   "seeds": "f7 c0 40 a6 a5 de 62 1c ac 5a 4f a4 e5 18 88 08"
+  },
+  "0x184": {
+   "frames": 102252,
+   "hit": 102252,
+   "seeds": "d9 90 33 e1 3a 1a df c6 b5 dc ee 04 fa d7 d4 99"
+  },
+  "0x185": {
+   "frames": 48773,
+   "hit": 48773,
+   "seeds": "5d 96 82 97 b6 8b 24 02 eb 69 20 bb 77 54 86 e6"
+  },
+  "0x186": {
+   "frames": 200000,
+   "hit": 200000,
+   "seeds": "d3 e0 75 85 83 55 33 e3 4c 9c 91 1d 23 1a a6 16"
+  },
+  "0x18C": {
+   "frames": 103887,
+   "hit": 103887,
+   "seeds": "0f d1 6b 63 9e 74 22 94 d7 a1 e7 6f 9c cf 96 dd"
+  },
+  "0x18D": {
+   "frames": 200000,
+   "hit": 200000,
+   "seeds": "61 4b 17 e4 78 0b a1 b4 bc d8 ea f5 d9 21 ca 86"
+  },
+  "0x227": {
+   "frames": 51605,
+   "hit": 51605,
+   "seeds": "66 f4 a8 c8 bb a7 af 2b d9 7b c0 50 56 0f ce ed"
+  },
+  "0x233": {
+   "frames": 84911,
+   "hit": 84911,
+   "seeds": "a5 e9 85 04 fb 6c df f1 de 90 a8 cb dd 3b 80 87"
+  },
+  "0x241": {
+   "frames": 29446,
+   "hit": 29446,
+   "seeds": "3f f7 25 5e aa 47 62 61 5b 3c dc e5 73 b4 ed 0d"
+  },
+  "0x243": {
+   "frames": 17901,
+   "hit": 17901,
+   "seeds": "ac ee b6 68 4d 69 1f 0e 86 34 6f 46 ed 38 11 1e"
+  },
+  "0x24D": {
+   "frames": 23314,
+   "hit": 23314,
+   "seeds": "0b c6 3f 10 87 f7 42 c5 25 da 40 5e 69 4a aa a5"
+  },
+  "0x25A": {
+   "frames": 21327,
+   "hit": 21327,
+   "seeds": "64 5d 7d 96 3d 82 b9 97 d5 b6 aa 8b 5a 24 b4 02"
+  },
+  "0x290": {
+   "frames": 49810,
+   "hit": 49810,
+   "seeds": "5c 09 71 2f 23 73 61 25 15 48 93 65 01 4b af f8"
+  },
+  "0x2A3": {
+   "frames": 18734,
+   "hit": 18734,
+   "seeds": "14 99 49 0b 04 d5 74 c6 17 f1 e1 3f 50 9b cb 10"
+  },
+  "0x331": {
+   "frames": 10333,
+   "hit": 10333,
+   "seeds": "42 4a 62 cd 1b b4 a0 16 14 e8 0a 71 ef 24 7c df"
+  },
+  "0x3B0": {
+   "frames": 64784,
+   "hit": 64784,
+   "seeds": "6d 69 44 ac 7a 73 06 9c 30 17 12 2e 8b ef a7 cf"
+  },
+  "0x3CE": {
+   "frames": 8869,
+   "hit": 8869,
+   "seeds": "6c 14 3c ad 93 59 1c 4d d8 33 5d 89 7b 08 70 34"
+  },
+  "0x648": {
+   "frames": 9528,
+   "hit": 9528,
+   "seeds": "87 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+  },
+  "0x656": {
+   "frames": 1030,
+   "hit": 1030,
+   "seeds": "e8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+  },
+  "0x65A": {
+   "frames": 1970,
+   "hit": 1970,
+   "seeds": "a6 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+  },
+  "0x6A0": {
+   "frames": 2182,
+   "hit": 2056,
+   "seeds": "60 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+  },
+  "0x6A1": {
+   "frames": 2183,
+   "hit": 2183,
+   "seeds": "60 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+  },
+  "0x6F3": {
+   "frames": 2182,
+   "hit": 2182,
+   "seeds": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 72 00"
+  },
+  "0x6F4": {
+   "frames": 2065,
+   "hit": 2065,
+   "seeds": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 5b 00"
+  },
+  "0x6F6": {
+   "frames": 2053,
+   "hit": 2053,
+   "seeds": "32 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+  }
+ }
+}
